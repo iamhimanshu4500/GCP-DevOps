@@ -4,6 +4,7 @@ This project demonstrates how to deploy a containerized web application on Googl
 This project is based on the Google Cloud SkillBoost Lab: **"Deploy, Scale, and Update Your Website on GKE"**.
 
 ---
+<img width="906" height="658" alt="image" src="https://github.com/user-attachments/assets/65923440-f8ef-4462-a3c6-db6ffb6da7bc" />
 
 ## 🎯 Objectives
 - Create a GKE cluster using `gcloud`
