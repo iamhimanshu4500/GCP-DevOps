@@ -27,8 +27,13 @@ This project is based on the Google Cloud SkillBoost Lab: **"Deploy, Scale, and 
 
 ## 🚀 Steps Performed
 
+```
+cd ~
+git clone https://github.com/googlecodelabs/monolith-to-microservices.git
+```
+
 ### 1️⃣ Create GKE Cluster
-```bash
+```
 gcloud container clusters create gke-lab-cluster \
   --zone us-central1-a \
   --num-nodes 3
